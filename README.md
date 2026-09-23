@@ -1,16 +1,67 @@
-## Hi there 👋
+# سلام، من امیرم
 
-<!--
-**amir-starX/amir-starX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> برنامه‌نویس | کاربر لینوکس | علاقه‌مند به هوش مصنوعی و وب
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## درباره من
+
+برنامه می‌نویسم، پروژه می‌سازم و همیشه دنبال یادگیری چیزهای جدید هستم.
+
+* کاربر لینوکس
+* برنامه‌نویسی با PHP، JavaScript، HTML و CSS
+* علاقه‌مند به هوش مصنوعی
+* ساخت پروژه‌ها و ابزارهای شخصی
+* یادگیری و تجربه تکنولوژی‌های جدید
+* سرگروه Black Redish
+
+---
+
+## تکنولوژی‌ها
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub">
+</p>
+
+---
+
+## پروژه‌ها
+
+### Plora Core
+
+یک فریم‌ورک سبک و پلاگین‌محور برای PHP.
+
+### پروژه‌های شخصی
+
+ساخت ابزارها، سیستم‌های وب و ایده‌های مختلف در زمینه برنامه‌نویسی و تکنولوژی.
+
+---
+
+## آمار گیت‌هاب
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=dark\&hide_border=true)
+
+---
+
+## Black Redish
+
+**سرگروه Black Redish**
+
+ایده‌ها را تبدیل به پروژه می‌کنیم.
+
+```text
+CODE • CREATE • LEARN • REPEAT
+```
+
+---
+
+## ارتباط
+
+GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)

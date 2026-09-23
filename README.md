@@ -64,4 +64,8 @@ CODE • CREATE • LEARN • REPEAT
 
 ## ارتباط
 
-GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+GitHub: [@amir-starX]
+
+telegram [amir_starx]
+
+rubika [amir_starx1]

@@ -68,6 +68,6 @@ CODE • CREATE • LEARN • REPEAT
 
 GitHub: [@amir-starX]
 
-telegram [amir_starx]
+telegram [@amir_starx]
 
-rubika [amir_starx1]
+rubika [@amir_starx1]
